@@ -4,7 +4,7 @@ init: init Repository
 mkdir: Make directory
 pwd: PrintWorkingDirectory
 
-add
+add       add to stage
 commit -m ""
 
 status
