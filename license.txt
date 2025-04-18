@@ -1,2 +1,2 @@
 licence
-insert A
+insert A B C
