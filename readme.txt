@@ -14,3 +14,8 @@ diff -- filename
 
 git checkout -- filename
 git reset HEAD <filename>
+
+rm "filename"
+git rm filename	//modify
+
+git checkout -- filename	//cancel
