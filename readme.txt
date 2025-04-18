@@ -10,4 +10,7 @@ add       add to stage
 commit -m ""
 
 status
-diff
+diff -- filename
+
+git checkout -- filename
+git reset HEAD <filename>
