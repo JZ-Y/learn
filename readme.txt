@@ -21,3 +21,5 @@ git rm filename	//modify
 git checkout -- filename	//cancel
 
 git branch dev + git checkout dev == git checkout -b dev //分支
+
+dev_insert
