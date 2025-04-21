@@ -20,7 +20,7 @@ git rm filename	//modify
 
 git checkout -- filename	//cancel
 
-git branch dev + git checkout dev == git checkout -b dev //创建并切换到分支
+git branch dev + git checkout dev == git checkout -b dev //创建并i切换到分支
 git branch dev + git switch dev == git switch -c dev //创建并切换到分支
 
 dev_insert
@@ -33,4 +33,4 @@ git switch dev/master  //切换到 dev/master分支 和 checkout效果一样，�
 git merge dev //将 dev 合并到 当前分支
 *****merge是把 master指针 直接指向 dev的提交，所以merge也叫“快进模式”
 
-Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
